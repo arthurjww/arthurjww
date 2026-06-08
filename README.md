@@ -1,65 +1,217 @@
-## 👋 Welcome to my GitHub Profile!
-🚀 About Me
-Hi there! I'm Arthur, a passionate learner and aspiring cybersecurity professional from Brazil 🇧🇷. I’m 17 years old and constantly looking for new challenges and skills to improve myself — especially in the field of offensive security.
+# Arthur Witt
 
-🤖 Currently working with Python
+### Cybersecurity Researcher • Backend Developer • AI Enthusiast
 
-🔭 Studying Java
+> Building tools, researching artificial intelligence, and exploring cybersecurity one project at a time.
 
-🧑‍💻 Front-end Developer + Database Explorer
+---
 
-👨‍💼 Bug Bounty Hunter
+## 👋 About Me
 
-👾 Pentester (and Mr. Robot fan)
+Hello! My name is Arthur Witt, I'm 17 years old, and I'm from Brazil 🇧🇷.
 
-🔧 Learning how to build and secure APIs
+I am a developer, cybersecurity researcher, and artificial intelligence enthusiast passionate about understanding how technology works and how it can be used to solve real-world problems.
 
+My interests are mainly focused on:
 
-## 🧠 My Journey So Far
+* 🔐 Cybersecurity
+* 🤖 Artificial Intelligence
+* 🐍 Python Development
+* 🌐 Web Technologies
+* ⚙️ Automation
+* 📊 Research & Innovation
 
-I began my programming journey when I was 12 years old, starting with Java and building simple games. Later, I moved to Unity and C#, where I truly fell in love with coding.
+Today, most of my work revolves around developing security tools, researching machine learning applications, and creating projects that combine software engineering, cybersecurity, and social impact.
 
+---
 
-But one day, while watching YouTube, I stumbled upon a video breaking down real-world hacker attacks. I saw that blinking terminal, and that was it — I was hooked. What started as copying random commands into a terminal turned into a deep dive into penetration testing, ethical hacking, and vulnerability research.
+# 🚀 My Story
 
+My passion for technology started long before I learned my first programming language.
 
-After countless mistakes, dozens of "403 Forbidden" errors, and lots of persistence, I learned that real hacking requires knowledge, dedication, and structure.
+According to my parents, even as a baby I was already fascinated by computers. They often tell the story that I learned how to move a laptop cursor using the touchpad before I could even speak properly.
 
+As I grew older, technology became more than curiosity—it became a passion.
 
-## 🧪 Hacking Experience
-Today, I’ve studied over 15 types of vulnerabilities, learned how to exploit and post-exploit them, and even practiced Wi-Fi hacking (on my own network, of course 😎). I'm also diving into social engineering and how it blends with technical attacks.
+One of the biggest turning points came when I received my first console, an Xbox One. For the first time, I realized that entire worlds, stories, and experiences could be created through software. The idea that all of that existed because of code running on hardware fascinated me.
 
+At the age of 12, after watching a trailer for a game I loved, I decided I wanted to create games myself.
 
-Most of my GitHub projects are tools I actually use in my bug bounty workflow or for research. I believe in open-source because together we can build a safer internet for everyone.
+My first attempt was Blender. While it introduced me to digital creation, I quickly realized I wanted something more focused on game development.
 
+Later, I discovered a Java game development course and started learning programming. Although Java was challenging for someone my age, it opened the door to understanding logic, algorithms, and software development.
 
-## 🐍 My Favorite Language
-Without a doubt, my favorite programming language is Python. Its high-level syntax makes it perfect for quickly developing tools focused on security testing and automation.
+Not long after, I found Unity and C#.
 
+For the first time, I was building real projects.
 
-## 🌍 Let’s Connect
-Feel free to check out my repositories. If you have feedback, ideas, or just want to chat about hacking, tools, or programming — my DMs are open!
+What started as a hobby became a serious interest.
 
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeyTenebrisVenator&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HeyTenebrisVenator&show_icons=true&theme=dark"/>
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/arthurjww/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:arthur.johann.witt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-witt-a4a8b531b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://tryhackme.com/p/arthurjww" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-red?style=for-the-badge&logo=tryhackme" target="_blank"></a> </div>
-  <a href="https://hackerone.com/tenebris_venator" target="_blank"><img src="https://img.shields.io/badge/-HackerOne-black?style=for-the-badge&logo=hackerone" target="_blank"></a> </div>
-  <a href="https://bugcrowd.com/Tenebris_Venator" target="_blank"><img src="https://img.shields.io/badge/-BugCrowd-orange?style=for-the-badge&logo=bugcrowd" target="_blank"></a> </div>
-  
+# 💻 Discovering Software Development
+
+As I got older, I began thinking more seriously about my future.
+
+At 14, I expanded my studies beyond game development and started learning:
+
+* HTML
+* CSS
+* JavaScript
+* SQL
+* Databases
+
+Because of my previous experience with Java and C#, I was able to progress quickly.
+
+During this period, I had many conversations with experienced developers who introduced me to different technology fields and career paths.
+
+One of those fields was cybersecurity.
+
+At first, it didn't capture my attention.
+
+That would soon change.
+
+---
+
+# 🔐 Entering Cybersecurity
+
+While exploring technology courses online, I joined two intensive programs during a school vacation:
+
+* Front-end Development
+* Offensive Security
+
+The front-end course was interesting, but the offensive security course completely changed my perspective.
+
+I saw terminals, vulnerability demonstrations, exploitation techniques, and concepts I had never encountered before.
+
+Instead of feeling intimidated, I became curious.
+
+The more I learned, the more I wanted to understand how systems worked internally, how vulnerabilities emerged, and how security professionals protected digital environments.
+
+That curiosity eventually became a long-term commitment.
+
+Since then, I have continuously studied cybersecurity, penetration testing, web application security, and vulnerability research.
+
+---
+
+# 🤖 Artificial Intelligence & Research
+
+In 2024, I discovered another field that immediately captured my attention: Artificial Intelligence.
+
+Rather than choosing between cybersecurity and AI, I decided to combine both.
+
+During the summer break, I dedicated myself to learning:
+
+* Machine Learning
+* Natural Language Processing
+* Embeddings
+* BERT
+* Neural Networks
+* AI Model Training
+
+This effort was motivated by a science fair project that I developed alongside friends.
+
+The result was **FNDetector**, an AI-powered fake news detection system.
+
+The project combined BERT with our own research methodology and achieved recognition at a national level.
+
+In 2025, FNDetector earned:
+
+🏆 Third Place at MostraTEC
+
+One of the largest scientific and technology exhibitions in Latin America.
+
+That experience taught me much more than machine learning.
+
+It taught me how research is conducted, how ideas become projects, and how technology can generate positive social impact.
+
+---
+
+# 🛡️ Current Projects
+
+## GUARDIAN AI
+
+An artificial intelligence platform designed to help people identify digital scams, phishing attempts, malicious links, suspicious files, and fraudulent online communications.
+
+The goal is simple:
+
+**Make digital environments safer and more accessible for everyone.**
+
+---
+
+## VERA
+
+**Vulnerability Evidence Reasoning Architecture**
+
+A research project focused on reducing false positives in vulnerability detection through intelligent evidence correlation and reasoning techniques.
+
+---
+
+## Synex
+
+A cybersecurity platform being developed to automate reconnaissance, asset discovery, vulnerability identification, and security assessment workflows.
+
+This project represents years of learning and experimentation in offensive security and software engineering.
+
+---
+
+# 🧠 Areas of Interest
+
+* Web Application Security
+* Bug Bounty Hunting
+* Vulnerability Research
+* Artificial Intelligence
+* Machine Learning
+* Offensive Security
+* API Security
+* Secure Software Development
+* Automation
+* Open Source Development
+
+---
+
+# 🛠️ Technologies
+
+### Languages
+
+* Python
+* Java
+* JavaScript
+* SQL
+* HTML
+* CSS
+* Go (Learning)
+
+### Frameworks & Tools
+
+* Flask
+* PostgreSQL
+* MySQL
+* Git
+* Docker
+* Linux
+* BERT
+* PyTorch
+
+---
+
+# 📚 Current Goals
+
+* Improve my knowledge of AI architectures
+* Expand my cybersecurity research projects
+* Publish technical articles and scientific research
+* Build tools that help security researchers
+* Participate in scientific competitions and innovation programs
+* Contribute to open-source projects
+
+---
+
+# 🌎 Let's Connect
+
+I enjoy discussing technology, cybersecurity, artificial intelligence, research, and software development.
+
+Feel free to explore my repositories and reach out if you'd like to collaborate, exchange ideas, or simply talk about technology.
+
+---
+
+> “The best way to predict the future is to build it.”
