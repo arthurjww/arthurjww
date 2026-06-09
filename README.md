@@ -131,6 +131,9 @@ It taught me how research is conducted, how ideas become projects, and how techn
 
 ## GUARDIAN AI
 
+<img width="400" alt="guardian" src="https://github.com/user-attachments/assets/c333a9e2-d5fa-4931-884a-b31a646268cc" />
+
+
 An artificial intelligence platform designed to help people identify digital scams, phishing attempts, malicious links, suspicious files, and fraudulent online communications.
 
 The goal is simple:
@@ -141,20 +144,38 @@ The goal is simple:
 
 ## VERA
 
+<img width="400" alt="vera" src="https://github.com/user-attachments/assets/fb6bb0c9-ba45-4e69-8f02-d935531f1167" />
+
+
 **Vulnerability Evidence Reasoning Architecture**
 
 A research project focused on reducing false positives in vulnerability detection through intelligent evidence correlation and reasoning techniques.
 
 ---
 
-## Synex
+## SYNEX
+
+<img width="400" alt="Logo_sem_fundo" src="https://github.com/user-attachments/assets/d10ba08d-629b-4d42-805d-5854b7c4d955" />
+
 
 A cybersecurity platform being developed to automate reconnaissance, asset discovery, vulnerability identification, and security assessment workflows.
 
 This project represents years of learning and experimentation in offensive security and software engineering.
 
----
+### NOT PUBLICLY OPEN YET 
 
+---
+## FNDETECTOR
+
+<img width="400" alt="fndetector" src="https://github.com/user-attachments/assets/8781972e-a4b6-48f5-b4fe-cc06dcb93df4" />
+
+
+**Fake news detector with ML**
+
+a research project aimed at creating and developing a model to detect fake news.
+
+
+---
 # 🧠 Areas of Interest
 
 * Web Application Security
